@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexbhusal@icloud.com**
 
-- 📄 Know about my experiences [bhuvanbhusal.com.np](bhuvanbhusal.com.np)
+- 📄 Know about my experiences [bhuvanbhusal.com.np](https://bhuvanbhusal.com.np)
 
 - ⚡ Fun fact **Alone but happy😇😇😇**
 
