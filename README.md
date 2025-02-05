@@ -4,7 +4,7 @@
 
 <h1 align="center">Its me  Alex </h1>
 <h3 align="center" color="green">A passionate DevSecOps ....</h3>
-<img align="right" width="500px" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" width="auto" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 
 - 🔭 I’m currently working on **Rider**
