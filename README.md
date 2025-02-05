@@ -1,5 +1,5 @@
 [![MasterHead](
-    https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif
+    
 )](https://alexbhusal.io)
 
 <h1 align="center">Its me  Alex </h1>
